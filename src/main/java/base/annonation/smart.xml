@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+配置处理器：class属性用于指定处理器类名
+ -->
+<beans>
+<bean class="demo.helloControler"></bean>
+</beans>
